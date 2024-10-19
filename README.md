@@ -58,4 +58,4 @@ This project provides a foundation for exploring more advanced image compression
 
 ## Acknowledgements
 
-This project was inspired by the linear algebra concepts covered in [Course Name/Source]. Special thanks to [Professor's Name] for guidance and insightful discussions.  Additionally, AI tools like Whisper API and GPT-3 were utilized for enhancing the clarity and presentation of the work.
+This project was inspired by the linear algebra concepts covered in CS113. Special thanks to Prof. John Levitt for guidance and insightful discussions.  Additionally, AI tools like Whisper API and GPT-3 were utilized for enhancing the clarity and presentation of the work.
